@@ -20,6 +20,7 @@ continents.pop
 end
 
 
-def pop_with_args
+def pop_with_args dog_breeds
+dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
 
 end
