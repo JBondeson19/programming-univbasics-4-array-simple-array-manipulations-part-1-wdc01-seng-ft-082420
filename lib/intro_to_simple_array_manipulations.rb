@@ -32,5 +32,5 @@ my_favorite_cities.shift
 end
 
 def shift_with_args
-  
+
 end
